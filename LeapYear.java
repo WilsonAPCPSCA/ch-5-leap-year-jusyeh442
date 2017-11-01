@@ -13,7 +13,7 @@ public class LeapYear {
 			System.out.println(leapYear);
 			
 			} else {
-				System.out.println("Sorry, that is year is not after 1582. I cannot give you an answer.");
+				System.out.println("Sorry, that year is not after 1582. I cannot give you an answer.");
 			}
 			
 		} else {
